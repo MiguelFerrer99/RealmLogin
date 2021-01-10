@@ -1,0 +1,57 @@
+/* 
+  Localizable.strings
+  RealmLogin
+
+  Created by Miguel Ferrer Fornali on 05/01/2021.
+  
+*/
+
+//Login:
+"login" = "Iniciar Sesión";
+//LoginEmail:
+"pass" = "Contraseña";
+"confirm_pass" = "Confirmar contraseña";
+"email" = "Correo electrónico";
+"remind_user" = "Recordar usuario";
+"go_sign_up" = "No tienes una cuenta? Regístrate";
+//SignUp:
+"firstname" = "Nombre";
+"lastname" = "Apellidos";
+"cancel" = "Cancelar";
+"sign_up" = "Registrarse";
+"have_account" = "Ya tienes una cuenta?";
+"select_sex" = "Sexo";
+"male" = "Hombre";
+"female" = "Mujer";
+//Inicio:
+"my_profile" = "Mi perfil";
+"my_news" = "Mis noticias";
+//Profile:
+"logout" = "Cerrar Sesion";
+"welcome1" = "Bienvenido a la";
+"welcome2" = "página principal";
+"online" = "En línea";
+"edit_profile" = "Editar perfil";
+//ProfileEditor:
+"save_changes"="Guardar cambios";
+"modify_user_photo" = "Modificar foto de perfil";
+"gallery_user_photo" = "Galeria";
+"camera_user_photo" = "Camara";
+"delete_user_photo" = "Borrar";
+
+//Login and LoginMail error titles:
+"login_error_title" = "Fallo de autenticación";
+//Login and LoginMail error messages:
+"unexpected_error_message" = "Ha ocurrido un error inesperado";
+"email_used_error_message" = "Este email está ya usado por otra cuenta";
+"email_bad_format" = "El email no está en el formato correcto";
+"password_bad_format" = "La contraseña debe contener al menos 8 carácteres, 1 mayúscula y 1 dígito";
+"email_not_found" = "No existe ningún usuario con este email y contraseña";
+//SignUp error titles:
+"registration_failure_title" = "Error de registro";
+//SignUp error messages:
+"different_passwords_message" = "Las contraseñas deben ser iguales";
+//Logout error titles:
+"logout_failure" = "Error Cerrando Sesión";
+//Default error titles:
+"default_error" = "Error";

@@ -1,0 +1,57 @@
+/* 
+  Localizable.strings
+  RealmLogin
+
+  Created by Miguel Ferrer Fornali on 05/01/2021.
+  
+*/
+
+//Login:
+"login" = "Log In";
+//LoginEmail:
+"pass" = "Password";
+"confirm_pass" = "Confirm password";
+"email" = "Email";
+"remind_user" = "Remind user";
+"go_sign_up" = "Don't have an account? Sign up";
+//SignUp:
+"firstname" = "Firstname";
+"lastname" = "Lastname";
+"cancel" = "Cancel";
+"sign_up" = "Sign Up";
+"have_account" = "Already have an account?";
+"select_sex" = "Sex";
+"male" = "Male";
+"female" = "Female";
+//Inicio:
+"my_profile" = "My profile";
+"my_news" = "My news";
+//Profile:
+"logout" = "Log Out";
+"welcome1" = "Welcome to the";
+"welcome2" = "home page";
+"online" = "Online";
+"edit_profile" = "Edit profile";
+//ProfileEditor:
+"save_changes"="Save changes";
+"modify_user_photo" = "Modify profile photo";
+"gallery_user_photo" = "Gallery";
+"camera_user_photo" = "Camera";
+"delete_user_photo" = "Delete";
+
+//Login and LoginMail error titles:
+"login_error_title" = "Authentication failure";
+//Login and LoginMail error messages:
+"unexpected_error_message" = "An unexpected error occurred";
+"email_used_error_message" = "This email is already used by other account";
+"email_bad_format" = "Email is not in the correct format";
+"password_bad_format" = "Password must contain at least 8 characters, 1 capital letter and 1 digit";
+"email_not_found" = "Don't exist any user with this email and password";
+//SignUp error titles:
+"registration_failure_title" = "Registration failure";
+//SignUp error messages:
+"different_passwords_message" = "Passwords must be equal";
+//Logout error titles:
+"logout_failure" = "Error Logging Out";
+//Default error titles:
+"default_error" = "Error";
